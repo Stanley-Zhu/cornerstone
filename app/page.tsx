@@ -8,7 +8,7 @@ export default function Page() {
         minHeight: '100vh',
         alignItems: 'center',
         justifyContent: 'center',
-        backgroundColor: 'light-dark(#fff, #000)',
+        backgroundColor: 'light-dark(#fff, #1f0101)',
         color: 'light-dark(#000, #fff)',
       }}
     >

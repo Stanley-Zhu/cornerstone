@@ -21,9 +21,9 @@ const display = Instrument_Sans({
 })
 
 export const metadata: Metadata = {
-  title: 'Keystone — Rental Property Management',
+  title: 'Cornerstone — Rental Property Management',
   description:
-    'Track properties, units, tenants, leases, rent collection, maintenance and financials across your rental portfolio.',
+    'Cornerstone helps you track properties, units, tenants, leases, rent collection, maintenance and financials across your rental portfolio.',
   generator: 'v0.app',
   icons: {
     icon: [
